@@ -1,0 +1,20 @@
+{
+  "synthetic": true,
+  "events": [
+    {
+      "id": "S01",
+      "organization": "training",
+      "kind": "stratified_sample"
+    },
+    {
+      "id": "S02",
+      "organization": "training",
+      "kind": "deduplicated_ticket"
+    },
+    {
+      "id": "S03",
+      "organization": "training",
+      "kind": "seed_commitment"
+    }
+  ]
+}
